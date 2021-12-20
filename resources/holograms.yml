@@ -1,0 +1,8 @@
+# Distance between lines in the hologram
+line-offset: 0.33
+
+# Holograms that will not be saved, add those holograms that contain interactable lines
+not-savable: ''
+
+# all holograms that will we loaded
+holograms: [ ]
